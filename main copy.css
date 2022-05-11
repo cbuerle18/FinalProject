@@ -1,0 +1,47 @@
+body {
+  font-family: Tahoma, sans-serif;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  color: white
+}
+
+.story-header {
+  background-color: darkred;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 100%;
+}
+
+.caption {
+  font-size: 14px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px
+}
+
+h1 {
+  font-style: italic;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-family: Trebuchet MS, sans-serif;
+  text-align: center;
+}
+
+.lead-image {
+  background-color: white;
+}
